@@ -1,0 +1,7 @@
+__pycache__/
+.pymake/
+# build output from the example project
+examples/whole-project/prog
+examples/whole-project/**/*.o
+examples/whole-project/**/*.d
+examples/whole-project/bee/version.h
